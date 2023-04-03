@@ -1,0 +1,5 @@
+rootProject.name = 'ParisBaguetteServer'
+
+include 'product-api'
+include 'product-core'
+
